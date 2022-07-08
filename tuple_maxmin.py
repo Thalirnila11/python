@@ -1,0 +1,5 @@
+a=(34,56,76,34,12)
+n=max(a)
+m=min(a)
+print("maximum element:{}". format(n))
+print("minimum element:{}". format(m))
